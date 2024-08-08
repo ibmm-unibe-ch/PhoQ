@@ -10,7 +10,7 @@ Each Folder contains:
 3. Python and Jupyter-notebooks to plot and analyze the data
 
 ## Publication
-[Symela Lazaridi, Jing Juan and Thomas Lemmin, Atomic insights into the signaling landscape of _E. coli_ PhoQ Histidine Kinase from Molecular Dynamics simulations, bioRxiv 2024.04.19.590235; doi: https://doi.org/10.1101/2024.04.19.590235](https://www.nature.com/articles/s41598-024-68206-z)
+Symela Lazaridi, Jing Juan and Thomas Lemmin, Atomic insights into the signaling landscape of _E. coli_ PhoQ Histidine Kinase from Molecular Dynamics simulations, bioRxiv 2024.04.19.590235; [doi: https://www.nature.com/articles/s41598-024-68206-z](https://www.nature.com/articles/s41598-024-68206-z)
 
 ## Simulations
 Data: [10.5281/zenodo.10988292](10.5281/zenodo.10988292)
