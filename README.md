@@ -1,4 +1,4 @@
-# PhoQ
+# Atomic insights into the signaling landscape of _E. coli_ PhoQ Histidine Kinase from Molecular Dynamics simulations
 
 ## Description
 PhoQ serves as the sensor protein in the PhoQ/PhoP two-component system found in bacteria, which plays a vital role in detecting environmental signals such as magnesium levels, antimicrobial peptides, pH levels, and fatty acids, impacting bacterial virulence. By combining AlphaFold2 predictions with molecular modeling and Molecular Dynamics (MD) simulations, we identified three PhoQ conformations (phoq_af, phoq_c, phoq_hybrid). One conformation suggests a repressed state with Mg2+ linking the sensor domain to the membrane (phoq_c), while another indicates significant hydration (phoq_hybrid), implying water-mediated conformational changes during signaling. These insights not only illuminate PhoQ activation but also provide valuable information on histidine kinase signaling mechanisms, offering potential for developing new therapeutics targeting bacterial modulation.
