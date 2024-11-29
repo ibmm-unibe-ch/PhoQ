@@ -14,3 +14,6 @@ Symela Lazaridi, Jing Juan and Thomas Lemmin, Atomic insights into the signaling
 
 ## Simulations
 Data: [10.5281/zenodo.10988292](10.5281/zenodo.10988292)
+
+## BlogPost
+[https://github.com/ibmm-unibe-ch/PhoQ/blob/main/docs/index.html](https://github.com/ibmm-unibe-ch/PhoQ/blob/main/docs/index.html)
