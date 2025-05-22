@@ -1,5 +1,5 @@
 <div align="center">   
-<img title="logo" alt="" src="img/Figure08.png" align="center" width="70%">
+<img title="logo" alt="" src="docs/img/Figure08.png" align="center" width="70%">
 
 <br/><br/>
 [![DOI:10.1093/bioadv/vbae103](http://img.shields.io/badge/DOI-10.1093/bioadv/vbae103-F28C28.svg)](https://www.biorxiv.org/content/10.1101/2024.04.19.590235v1)
